@@ -1,0 +1,15 @@
+{
+    "name": "Cineby Repo",
+    "description": "Custom plugin for cineby.app",
+    "plugins": [
+        {
+            "name": "Cineby",
+            "description": "Streams movies and shows from cineby.app",
+            "version": "1.0.0",
+            "language": "all",
+            "type": "movie",
+            "url": "./Cineby/cineby.cs3",
+            "repository": "local"
+        }
+    ]
+}
